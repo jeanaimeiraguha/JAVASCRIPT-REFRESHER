@@ -12,4 +12,8 @@ const shoppingCart=[
   'Sugar'
 ];
 console.log(shoppingCart[0]);
+
 console.log(shoppingCart[4]);
+
+let lastIndedx = shoppingCart.length -1
+console.log(shoppingCart[lastIndex]);
