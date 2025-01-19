@@ -15,5 +15,5 @@ console.log(shoppingCart[0]);
 
 console.log(shoppingCart[4]);
 
-let lastIndedx = shoppingCart.length -1
-console.log(shoppingCart[lastIndex]);
+let lastIndex = shoppingCart.length -1
+console.log('Am Woundering about:', shoppingCart[lastIndex]);
