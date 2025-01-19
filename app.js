@@ -32,3 +32,9 @@ console.log(countries[0]);
 
 //Methods to manipulate array
 //Array constructor
+//Creating an empty array 
+const arr= Array()
+console.log(arr);
+// Creating an empty Array
+const eightXvalues=Array(8).fill('X');
+console.log(eightXvalues)
