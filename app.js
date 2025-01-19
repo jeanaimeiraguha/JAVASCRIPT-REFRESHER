@@ -17,3 +17,15 @@ console.log(shoppingCart[4]);
 
 let lastIndex = shoppingCart.length -1
 console.log('Am Woundering about:', shoppingCart[lastIndex]);
+
+// MOdifying array
+
+const countries=[
+     'Rwanda ',
+     'Kenya',
+     'Uganda',
+     'Congo DRC'
+]
+//Modifying element with Index of 0 to "UNknown country"
+countries[0]='Unknown C';
+console.log(countries[0]);
