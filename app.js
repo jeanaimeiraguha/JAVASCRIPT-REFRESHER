@@ -26,6 +26,9 @@ const countries=[
      'Uganda',
      'Congo DRC'
 ]
-//Modifying element with Index of 0 to "UNknown country"
-countries[0]='Unknown C';
+//Modifying element with Index of 0 to "Zambia"
+countries[0]='Zambia';
 console.log(countries[0]);
+
+//Methods to manipulate array
+//Array constructor
